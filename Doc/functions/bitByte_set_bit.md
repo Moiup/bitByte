@@ -21,4 +21,4 @@ A byte.
 The index of the bit to set.
 
 ## **Result**
-Change the bit `i` int `b` to BITBYTE_TRUE;
+Change the bit `i` int `b` to `BITBYTE_TRUE`.

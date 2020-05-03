@@ -21,4 +21,4 @@ A byte.
 The index of the bit to reset.
 
 ## **Result**
-Change the bit `i` int `b` to BITBYTE_FALSE;
+Change the bit `i` int `b` to `BITBYTE_FALSE`.
